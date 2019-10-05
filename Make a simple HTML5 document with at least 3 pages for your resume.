@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+	<title>Resume | First Last</title>
+	<meta name="robots" content="noindex, nofollow" />
+	<style type="text/css" media="all">
+
+
+		html{
+			background-color:#EEE;
+			padding:0 1em;
+			}
+		body {
+			background-color:#FFF;
+			font-family:"Trebuchet MS", Helvetica, Arial;
+			padding:1em;
+			border:solid #AAA;
+			border-width:1px 3px 3px 1px;
+			margin:1em auto;
+			max-width: 50em;
+			}
+		#address{
+			height:5em;
+			width:47em;
+			margin:1em 0 1em 0;
+			}
+		#address div{
+			width:13em;
+			float:left;
+			padding:0 .5em 0 1.5em;
+			border-left:1px solid #CCC;
+			}
+		#address div#first{
+			border-left:none;
+			}
+		#address h3{
+			border-bottom: none;
+			margin-top: 0;
+			}	
+		.date {
+			float:right;
+			font-size:.9em;
+			margin-top:.4em;
+			text-align:right;
+			}
+		
+	
+		
+		h1{
+			font-size:1.5em;
+			font-family: Helvetica, Verdana, Arial, sans-serif;
+			}
+		h2 {
+			clear:both;
+			font-size: 1.4em;
+			font-weight:bold;
+			margin-top:2em;
+			font-variant: small-caps;
+			padding-left:.25em;
+			background-color:#EEE;
+			border-bottom: 1px solid #999;
+			letter-spacing: .06em;
+			}
+		h3 {margin: 1em 0 0 0;}
+	</style>
+	<style type="text/css" media="print">
+		body {
+			background-color:#FFF;
+			border-width:0 0 0 0;
+			margin:0;
+			width:100%
+			}
+	</style>
+
+
+
+</head>
+
+<body>
+	<h1>Zichri Palbusa Montes</h1>
+	<div id="address">
+		<div id="first">
+			<h3>CONTACT</h3>
+			Tel no. 422-0123 <br />
+			<a href="xenozero40@gmail.com">xenozero40@gmail.com</a><br />
+			
+		</div>
+		<div>
+			<h3>Current Address</h3>
+			JC 298-3 Pico Road,<br>
+			La Trinidad, Benguet 2601<br>
+			<br>
+		</div>
+		<div>
+			<h3>PHOTO ATTACHED</h3>
+			 <br>
+			<br>
+		
+		</div>
+	</div>
+	
+	<h2>Objective</h2>
+	<p>	Seizing a decent career with a progressive		
+		 organization that provides an opportunity to make the most of my technical skills & abilities in the field of information technology.
+	</p>
+	
+	
+	<h2>SKILLS</h2>
+
+	<h3>TECHNICAL</h3>
+	<ul>
+		<li>Graphic designs (Photoshop)</li>
+		<li>Good Customer Service</li>
+		<li>Knows Microsoft Office</li>
+		<li>Awareness of trends in user experience</li>
+		<li>Knows HTML,CSS, JAVA JavaScript and PHP</li>
+		<li>Type 43 WMP</li>
+	</ul>
+
+
+	<h3>PERSONAL</h3>
+	<ul>
+		<li>An eye for design and aesthetics</li>
+		<li>Quality Communication and writing</li>
+		<li>Strong attention to detail</li>
+		<li>Ability to hit deadlines</li>
+		<li>Ability to work in a collaborative environment</li>
+	</ul>
+	
+
+	<h2>Job/Voluntee Related Experience</h2>
+	<h3>WORK IMMERSION (2017-2019)</h3>
+	<ul>
+		<li>Assigned at Puguis Barangay Hall</li>
+		<li>Assisted in office work</li>
+		<li>Organize and create documents for the barangay community</li>
+	</ul>
+	
+	
+	<h2>Education</h2>
+	<span class="date">2018 &raquo; 2021</span>
+	<ul>
+		<li>Candidate for Bachelor of Information Technology (Present).<br>
+			Web Technology Major, <br>
+			University of Cordilleras, <br>
+			Governer Pack Rd, Baguio City.
+	</li>
+
+	<section>
+	<h2>Refences:</h2>
+	<h3>SONNY VICTOR D. BALANOY</h3>
+	<p>Barangay Captain
+		Puguis Daycare, La Trinidad, Benguet</p>
+	<h3>Rita B. Matias </h3>
+	<p>KCP Instructor</p>
+	<h3>Joe Remy Sugo</h3>
+	<p>KCP Instructor</p>
+	</section>
+</body>
+
+
+</html>
